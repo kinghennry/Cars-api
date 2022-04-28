@@ -24,7 +24,7 @@ const Cars = ({ data }) => {
                       Car-Model: <span>{car_model}</span>
                     </h4>
                     <h4>
-                      Price: <span>{price}</span>
+                      Daily-Rent-Rate: <span>{price}</span>
                     </h4>
                     <h4>
                       Car-Model-Year: <span>{car_model_year}</span>

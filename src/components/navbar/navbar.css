@@ -1,0 +1,18 @@
+/* nav */
+nav {
+  padding: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1200;
+  border-bottom: 1px solid var(--light-mode-input);
+  background: var(--light-mode-background);
+}
+.nav-title h2 {
+  color: var(--light-mode-input);
+  font-weight: 600;
+}
